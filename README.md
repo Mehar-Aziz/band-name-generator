@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Band Name Generator** is a Python program designed to generate Band name with the help of ones' City and Pet.
+The **Band Name Generator** is a Python program designed to generate Band name with the help of ones' City and Pet names.
 
 ## Installation
 
